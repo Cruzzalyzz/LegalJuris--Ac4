@@ -1,0 +1,240 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="LegalJuris.Dal.Contexto" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAABIACAAQAAAAAAEAAAAAAAAAAAAAAIAAAAAA=</HashCode>
+      <FileName>Dal\Contexto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LegalJuris.Caso.EditCasoForms" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAICIAACAIAABAAACABAACECAIAAgAAAACAACAAAQ=</HashCode>
+      <FileName>Forms\Caso\EditCasoForms.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LegalJuris.Caso.GridCasoForms" Collapsed="true">
+    <Position X="7.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAACAQAAAgAACAABACAAAIIQAAAEACQQAARAA=</HashCode>
+      <FileName>Forms\Caso\GridCasoForms.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LegalJuris.Cliente.EditClienteForms" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAMAACAAAAAAAACABAACEAAIAAgAAAACAAAAAAQ=</HashCode>
+      <FileName>Forms\Cliente\EditClienteForms.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LegalJuris.Cliente.GridClienteForms" Collapsed="true">
+    <Position X="9.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAACAQAAAgAACgAAACAAAIAQAAAEBCQQAARAA=</HashCode>
+      <FileName>Forms\Cliente\GridClienteForms.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LegalJuris.Comarca.EditComarcaForms" Collapsed="true">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAIAACAAAAAAAACABAACEAAIAAgAAAACAASACEQ=</HashCode>
+      <FileName>Forms\Comarca\EditComarcaForms.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LegalJuris.Comarca.GridComarcaForms" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIBAAACAQAAAgAACAEAACAAAIAQAAAEACQQAARAA=</HashCode>
+      <FileName>Forms\Comarca\GridComarcaForms.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LegalJuris.Foro.EditForoForms" Collapsed="true">
+    <Position X="7.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAIAICAAAAAAAACABAACEAAIAAgAAAACQACAAAU=</HashCode>
+      <FileName>Forms\Foro\EditForoForms.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LegalJuris.Foro.GridForoForms" Collapsed="true">
+    <Position X="2.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAABAAACAQAAAgAACAAAACAAAIAQAAAEACQQAARAA=</HashCode>
+      <FileName>Forms\Foro\GridForoForms.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LegalJuris.MainWindow" Collapsed="true">
+    <Position X="9.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BUAAAAAQACAEAIAAEgCAEIACAIAgAAIAACIAAAAQAAQ=</HashCode>
+      <FileName>Forms\MainWindow.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LegalJuris.Program" Collapsed="true">
+    <Position X="4" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LegalJuris.Processo.EditProcessoForms" Collapsed="true">
+    <Position X="9.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAIAACAAAoBACCCBBACCEAAIEAoAAgACACCEAUU=</HashCode>
+      <FileName>Forms\Processo\EditProcessoForms.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LegalJuris.Processo.GridProcessoForms" Collapsed="true">
+    <Position X="4" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAACAQAAAgAACAAAACgAAIAQAAAEACQQAERAA=</HashCode>
+      <FileName>Forms\Processo\GridProcessoForms.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LegalJuris.Responsavel.EditResponsavelForms" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAIAACgAAAAAAACABAACEAgIAAgAAAACAAAAAAQ=</HashCode>
+      <FileName>Forms\Responsavel\EditResponsavelForms.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LegalJuris.Responsavel.GridResponsavelForms" Collapsed="true">
+    <Position X="5.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAACAQAAAgABCAAAACAAAIAQAAAEACQQAQRAA=</HashCode>
+      <FileName>Forms\Responsavel\GridResponsavelForms.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LegalJuris.Vara.EditVaraForms" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAIAACAAAAAAAACABEACEAAIAAgAAAACAAAACAQ=</HashCode>
+      <FileName>Forms\Vara\EditVaraForms.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LegalJuris.Vara.GridVaraForms" Collapsed="true">
+    <Position X="7.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACBAAACAQAAAgAACAABACAAAIAQAAAEACQQAARAA=</HashCode>
+      <FileName>Forms\Vara\GridVaraForms.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LegalJuris.Model.CasoModel" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAAAAABCAAAAAAAAAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>Model\CasoModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LegalJuris.Model.ClienteModel" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAgAAAAAAAAAA=</HashCode>
+      <FileName>Model\ClienteModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LegalJuris.Model.ComarcaModel" Collapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAQAAEAAA=</HashCode>
+      <FileName>Model\ComarcaModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LegalJuris.Model.ForoModel" Collapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAgAAAAAAEAAAAgAAAAEAAAAAAAAAAA=</HashCode>
+      <FileName>Model\ForoModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LegalJuris.Model.ProcessoModel" Collapsed="true">
+    <Position X="0.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAKAIAAAAAAAAAAAAAAAAAAQgAQAAAAAAAAAQEAAA=</HashCode>
+      <FileName>Model\ProcessoModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LegalJuris.Model.ResponsavelModel" Collapsed="true">
+    <Position X="7.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\ResponsavelModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LegalJuris.Model.VaraModel" Collapsed="true">
+    <Position X="2.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAgAAAAAAAAAAAAABAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\VaraModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LegalJuris.Properties.Resources" Collapsed="true">
+    <Position X="5.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LegalJuris.Properties.Settings" Collapsed="true">
+    <Position X="0.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LegalJuris.ViewModel.CasoViewModel" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAEEAAA=</HashCode>
+      <FileName>ViewModel\CasoViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LegalJuris.ViewModel.ClienteViewModel" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>ViewModel\ClienteViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LegalJuris.ViewModel.ComarcaViewModel" Collapsed="true">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAEAAAA=</HashCode>
+      <FileName>ViewModel\ComarcaViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LegalJuris.ViewModel.ForoViewModel" Collapsed="true">
+    <Position X="5.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAEAAAAgAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>ViewModel\ForoViewModel .cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LegalJuris.ViewModel.ProcessoViewModel" Collapsed="true">
+    <Position X="2.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAAAAAAAACAAAAAAAgAQAAAAAAAAAABAAA=</HashCode>
+      <FileName>ViewModel\ProcessoViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LegalJuris.ViewModel.ResponsavelViewModel" Collapsed="true">
+    <Position X="9.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>ViewModel\ResponsavelViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LegalJuris.ViewModel.VaraViewModel" Collapsed="true">
+    <Position X="4" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>ViewModel\VaraViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="LegalJuris.Action" Collapsed="true">
+    <Position X="0.5" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>Forms\MainWindow.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
